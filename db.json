@@ -1,14 +1,32 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
-    }
-  ]
-}
+[
+  {
+    "category": "family",
+    "image_url": "https://img2.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_54_990x660.jpg",
+    "type_of_room": "AC",
+    "bed_type": "Double",
+    "no_of_persons": "2",
+    "capacity": "2",
+    "cost": "1500",
+    "booked": true
+  },
+  {
+    "category": "deluxe",
+    "image_url": "https://img2.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_54_990x660.jpg",
+    "type_of_room": "AC",
+    "bed_type": "single",
+    "no_of_persons": "1",
+    "capacity": "1",
+    "cost": "3500",
+    "booked": true
+  },
+  {
+    "category": "suite",
+    "image_url": "https://img2.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_54_990x660.jpg",
+    "type_of_room": "AC",
+    "bed_type": "Double",
+    "no_of_persons": "4",
+    "capacity": "5",
+    "cost": "5500",
+    "booked": true
+  }
+]
